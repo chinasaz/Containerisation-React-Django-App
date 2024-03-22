@@ -98,7 +98,7 @@ DATABASES = {
         "NAME": "recipe",
         "USER": "admin",
         "PASSWORD": "12345",
-        "HOST": "database",
+        "HOST": "3.82.44.47",
         "PORT": "5432"
     }
 }
