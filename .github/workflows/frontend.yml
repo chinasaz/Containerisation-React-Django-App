@@ -4,7 +4,7 @@ jobs:
   # Build Job
   build:
     runs-on: ubuntu-latest
-    steps:main.yml
+    steps:frontend.yml
     - name: Checkout Code
         uses: actions/checkout@v3
     - name: Install Node
